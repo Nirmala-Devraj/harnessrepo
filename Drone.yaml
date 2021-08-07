@@ -21,7 +21,7 @@ steps:
       from_secret: docker_password
     repo: nirmala1234/harnessrepo
     tags:
-      - '1.0.0_dronetwo'
+      - '1.0.1_dronetwo'
 #      
 #- name: harness-deploy
 #  image: rlachhman/drone-harness-trigger:1.0.0
